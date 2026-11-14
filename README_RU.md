@@ -16,6 +16,8 @@
 
 ## Установка
 
+**Зайди в [Discord Operation Throwback](https://discord.gg/r6s-operation-throwback-1092820800203141130)** — там помогут с загрузкой и установкой сезона и лаунчером Throwback.
+
 | Компонент | Скачать / источник | Версия / выбор |
 | --- | --- | --- |
 | **Throwback launcher** | [ThrowbackLauncher.exe — скачать](https://github.com/xeralin/ThrowbackLauncher/releases/download/v0.2.2/ThrowbackLauncher.exe) · [страница версии](https://github.com/xeralin/ThrowbackLauncher/releases/tag/v0.2.2) | Общественный лаунчер xeralin; файл версии v0.2.2 проверен по данным upstream 14 ноября 2026. |

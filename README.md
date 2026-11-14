@@ -16,6 +16,8 @@ An experimental VR mod for the supported Throwback Y5S3 Shadow Legacy / Y5S3.3.1
 
 ## Installation
 
+**Join the [Operation Throwback Discord](https://discord.gg/r6s-operation-throwback-1092820800203141130)** for season download/setup help and Throwback launcher support.
+
 | Component | Download / source | Version / selection |
 | --- | --- | --- |
 | **Throwback launcher** | [ThrowbackLauncher.exe — direct download](https://github.com/xeralin/ThrowbackLauncher/releases/download/v0.2.2/ThrowbackLauncher.exe) · [release page](https://github.com/xeralin/ThrowbackLauncher/releases/tag/v0.2.2) | Community launcher by xeralin; upstream asset v0.2.2 checked on 14 November 2026. |
