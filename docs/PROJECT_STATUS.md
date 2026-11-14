@@ -25,6 +25,7 @@ This overview was reconciled against the project’s recorded package notes and 
 - `SIEGE_R202_PLAYER_HANDLING_20261114.json`
 - `SIEGE_R51_HANDLING_20261114/README.txt`
 - `SIEGE_PLAYER_FIXES_20261114.txt`
+- `Upstream xeralin/ThrowbackLauncher v0.2.2 release and Y5S3_ShadowLegacy manifest, checked 2026-11-14`
 
 Game execution, simulator validation and physical-headset feedback are reported separately above. Features from a separate experimental branch are identified explicitly.
 
