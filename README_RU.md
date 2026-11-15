@@ -2,7 +2,9 @@
 > **[ТЕСТИРОВАНИЕ И ОБСУЖДЕНИЕ · FLAT2VR DISCORD](https://discord.gg/P4q9zt7ek)**
 > Тестирование, запрос сборок, отзывы и обсуждение проходят в **Flat2VR Modding Discord**. Перейди на сервер и найди тему **Rainbow Six Siege VR**.
 
-![Rainbow Six Siege VR — Monsterdeadwood VR mods](assets/vr-banner.svg)
+<p align="center">
+  <img src="assets/vr-banner.png" alt="Rainbow Six Siege VR — VR" width="780">
+</p>
 
 # Rainbow Six Siege VR
 
