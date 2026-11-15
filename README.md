@@ -14,7 +14,7 @@
 
 An experimental VR mod for the supported Throwback Y5S3 Shadow Legacy / Y5S3.3.1 PC build. The current test path uses local Training Grounds, stereo viewing, motion-controller input and two-handed weapon handling.
 
-**Current documented branch: R51 handling package / R202 development revision.**
+**Package baseline on this page: R51 handling package / R202 development revision.**
 
 ## Installation
 
@@ -60,6 +60,11 @@ Current test-package availability is coordinated in Discord. Use the complete pa
 The complete package control sheet takes precedence for its version and interaction profile.
 
 </details>
+
+## Features in newer test builds
+
+- **Native muzzle and recoil check.** A foreground test shot in the R205–R208 development line came from the tracked weapon's original muzzle, consumed one round and produced one recoil impulse. The scene kept submitting fresh stereo pairs.
+- **Frame continuity and controls.** The R51 Continuity test checked stereo output and controller input in XR Sim. The reported physical-headset interruption and gadget placement remain open on hardware.
 
 ## Current status
 

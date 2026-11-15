@@ -9,6 +9,16 @@ Reviewed **14 November 2026**. Documented branch: **R51 handling package / R202 
 - The R201 startup path has a tester-confirmed Steam Frame/SteamVR image on an RX 9070 XT. This does not certify every headset.
 - R202 support-grip acquire/steer/walk/release/re-grip behavior was checked in the actual game with XR Sim.
 
+## Follow-up tests reviewed 16 November 2026
+
+R203/R51 Continuity exercised the input and stereo paths in XR Sim. The R208 report records the R205 foreground shot with same-weapon muzzle geometry, ammo decrement, recoil and new stereo pairs. Installation and behavior on all hardware, background shooting and native gadget placement need separate qualification.
+
+Verification records used for this section
+
+- `SIEGE_R203_TESTER_FOLLOWUP_20261115.json`
+- `SIEGE_R208_NATIVE_SHOT_AND_RENDER_20261115.json`
+- `SIEGE_R209_NATIVE_SCENE_AND_PLACEMENT_20261116.json`
+
 ## Current limits
 
 - The new handling requires physical-headset testing. Reticles, shield collision, gadget coverage and near-object visibility remain open.
