@@ -38,10 +38,3 @@ This overview was reconciled against the project’s recorded package notes and 
 - `Upstream xeralin/ThrowbackLauncher v0.2.2 release and Y5S3_ShadowLegacy manifest, checked 2026-11-14`
 
 Game execution, simulator validation and physical-headset feedback are reported separately above. Features from a separate experimental branch are identified explicitly.
-
-## Кратко по-русски
-
-Экспериментальный VR-мод поддерживаемой PC-сборки Throwback Y5S3 Shadow Legacy / Y5S3.3.1. Текущий маршрут тестирования — локальные Training Grounds, стереообзор, управление контроллерами и двуручное удержание оружия.
-
-- Новому удержанию нужна проверка в физическом шлеме. Сетки прицелов, коллизия щита, покрытие гаджетов и видимость близких объектов ещё в работе.
-- Ручные магазины, все операторы и наборы оружия, принятие FPS на железе и многопользовательская LAN-проверка не подтверждены.
