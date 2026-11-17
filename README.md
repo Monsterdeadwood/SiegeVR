@@ -41,7 +41,7 @@ R51 targets local Training Grounds. Headset handling and multi-user LAN remain t
 
 <p align="center">
   <a href="assets/gameplay/tracked-sidearm.jpg"><img src="assets/gameplay/tracked-sidearm.jpg" alt="Sidearm and tracked hands during the outdoor test" width="48%" align="top"></a>
-  <a href="assets/gameplay/outdoor-hand-tracking.jpg"><img src="assets/gameplay/outdoor-hand-tracking.jpg" alt="Free-hand tracking in the outdoor training area" width="48%" align="top"></a>
+  <a href="assets/gameplay/outdoor-hand-tracking.jpg"><img src="assets/gameplay/outdoor-hand-tracking.jpg" alt="Tracked hands and a sidearm in a sunlit Siege courtyard" width="48%" align="top"></a>
 </p>
 
 [Tester credits](TESTERS.md) · [Build details](docs/PROJECT_STATUS.md)
@@ -50,13 +50,15 @@ R51 targets local Training Grounds. Headset handling and multi-user LAN remain t
 
 ## 🎮 Other VR mods
 
-- [Alone in the Dark (2008) VR](https://github.com/Monsterdeadwood/AloneInTheDark2008VR)
-- [Battlefield 3: VRevamp](https://github.com/Monsterdeadwood/Battlefield-3-VRevamp)
-- [Burnout Paradise Remastered VR](https://github.com/Monsterdeadwood/BUrnOutPvr)
-- [Crysis 2: VRevamp](https://github.com/Monsterdeadwood/C2VR)
-- [NOVA · CS:GO Legacy VR](https://github.com/Monsterdeadwood/CSGOVR)
-- [Metro 2033 VR](https://github.com/Monsterdeadwood/Metro2033VR)
-- [Star Wars: The Force Unleashed II VR](https://github.com/Monsterdeadwood/TFU2VR)
-- [TimeShift VR](https://github.com/Monsterdeadwood/TimeShiftVR)
-- [Titanfall 1 VR](https://github.com/Monsterdeadwood/Titanfall1VR)
-- [You Are Empty: Absolute Edition VR](https://github.com/Monsterdeadwood/YouAreEmptyAEVR)
+| VR mod | Highlights |
+| --- | --- |
+| [Alone in the Dark (2008) VR](https://github.com/Monsterdeadwood/AloneInTheDark2008VR) | Tracked item handling and hand contact with walls |
+| [Battlefield 3: VRevamp](https://github.com/Monsterdeadwood/Battlefield-3-VRevamp) | Body holsters, two-handed aiming, and changing campaign skies |
+| [Burnout Paradise Remastered VR](https://github.com/Monsterdeadwood/BUrnOutPvr) | Head-tracked driving with stereo boost and exhaust effects |
+| [Crysis 2: VRevamp](https://github.com/Monsterdeadwood/C2VR) | Physical melee, object grabbing, and a rooftop weapon range |
+| [NOVA · CS:GO Legacy VR](https://github.com/Monsterdeadwood/CSGOVR) | Controller aiming and working optics in local bot matches |
+| [Metro 2033 VR](https://github.com/Monsterdeadwood/Metro2033VR) | Telekinesis, hand lightning, and object physics |
+| [Star Wars: The Force Unleashed II VR](https://github.com/Monsterdeadwood/TFU2VR) | Two tracked lightsabers and independent Force grip |
+| [TimeShift VR](https://github.com/Monsterdeadwood/TimeShiftVR) | Randomized weather, day and night, and roomscale crouching |
+| [Titanfall 1 VR](https://github.com/Monsterdeadwood/Titanfall1VR) | Aim with the controller and look around a Titan cockpit |
+| [You Are Empty: Absolute Edition VR](https://github.com/Monsterdeadwood/YouAreEmptyAEVR) | Tracked weapons and melee with either hand |
