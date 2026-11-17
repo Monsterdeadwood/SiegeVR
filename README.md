@@ -14,8 +14,8 @@
 ## 📦 INSTALLATION
 
 1. Download the [**Throwback Launcher**](https://github.com/xeralin/ThrowbackLauncher) and install **Y5S3 Shadow Legacy (Y5S3.3.1)** with your Steam copy. The [Operation Throwback Discord](https://discord.gg/r6s-operation-throwback-1092820800203141130) has setup help.
-2. Extract the complete mod folder next to `RainbowSix.exe`.
-3. Connect PC VR, run **`RUN.bat`** in the mod folder, and enter **Local Training Grounds**.
+2. **Put the mod archive next to `RainbowSix.exe`.** Extract the whole archive there and keep the mod folder intact.
+3. Connect PC VR, run **`RUN.bat`** from the extracted mod folder, and enter **Local Training Grounds**.
 
 <a name="features"></a>
 
