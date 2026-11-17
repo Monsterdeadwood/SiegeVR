@@ -1,9 +1,9 @@
 > [!IMPORTANT]
 > **TEST BUILDS & DISCUSSION**
 >
-> **[Join the Flat2VR Discord](https://discord.gg/P4q9zt7ek)**
+> **[Join the Flat2VR Discord](https://discord.gg/P4q9zt7ek)** · **[Open the Rainbow Six Siege thread](https://discord.com/channels/747967102895390741/1563409771816550451)**
 >
-> Ask for the matching test build and share feedback in the **Rainbow Six Siege VR** discussion.
+> Check the thread for the latest test build for your game version and share feedback there.
 
 <p align="center">
   <img src="assets/vr-banner.png" alt="Rainbow Six Siege VR" width="780">
